@@ -18,5 +18,6 @@ android {
 }
 
 dependencies {
+    compile 'com.tom_roush:pdfbox-android:1.8.10.0'
     compile 'com.facebook.react:react-native:+'
 }
